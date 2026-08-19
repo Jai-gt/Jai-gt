@@ -5,6 +5,8 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+C Progrmming
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jai-gt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jai-gt&theme=dark&hide_border=false)<br/>
